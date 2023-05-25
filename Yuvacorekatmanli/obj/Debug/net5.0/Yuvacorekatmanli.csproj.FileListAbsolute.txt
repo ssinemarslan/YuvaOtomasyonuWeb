@@ -1,0 +1,12 @@
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\bin\Debug\net5.0\Yuvacorekatmanli.deps.json
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\bin\Debug\net5.0\Yuvacorekatmanli.dll
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\bin\Debug\net5.0\Yuvacorekatmanli.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.csproj.AssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.AssemblyInfoInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.AssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.dll
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\refint\Yuvacorekatmanli.dll
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\Yuvacorekatmanli.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Yuvacorekatmanli\Yuvacorekatmanli\obj\Debug\net5.0\ref\Yuvacorekatmanli.dll

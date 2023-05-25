@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yuvacorekatmanli/1.0.0": {
+        "runtime": {
+          "Yuvacorekatmanli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yuvacorekatmanli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
